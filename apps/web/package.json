@@ -57,7 +57,7 @@
     "@types/cookie": "^0.6.0",
     "@types/js-cookie": "^3.0.4",
     "@types/node": "20.11.24",
-    "@types/react": "18.2.61",
+    "@types/react": "18.2.62",
     "@types/react-dom": "18.2.19",
     "@types/uuid": "^9.0.8",
     "auth": "workspace:*",
