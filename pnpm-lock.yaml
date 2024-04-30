@@ -235,8 +235,8 @@ importers:
   packages/api:
     dependencies:
       '@trpc/server':
-        specifier: 11.0.0-next-beta.303
-        version: 11.0.0-next-beta.303
+        specifier: 11.0.0-next.91
+        version: 11.0.0-next.91
       auth:
         specifier: workspace:*
         version: link:../auth
@@ -5668,6 +5668,10 @@ packages:
 
   /@trpc/server@11.0.0-next-beta.303:
     resolution: {integrity: sha512-ubUYS8nkjSbAGOXDp+TnWbktLzDGmuLebc6ahXWM2L4rfdY9UWrUk84VafOYkGSdN6jpdlQ+7/dDUgRNYVgL/g==}
+    dev: false
+
+  /@trpc/server@11.0.0-next.91:
+    resolution: {integrity: sha512-8ETKhCPaY6QZS2kTio6Vg+lIesqDmnH5dVvQaEJ+oez/xSa7a+tmfhea4Y2yanGd74QOUPFrX2jAqM5pR2J/qw==}
     dev: false
 
   /@tybys/wasm-util@0.8.1:
